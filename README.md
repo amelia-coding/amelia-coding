@@ -1,6 +1,5 @@
-## Hi 🎉
+## Hi, I’m amelia  🔭 
 
-- 🔭 I’m amelia
 - 🌱 Welcome to my github
 - 💬 I’m a Front-end development
 - 😄 I like the marvel movie
