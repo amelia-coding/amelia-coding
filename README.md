@@ -1,8 +1,8 @@
 ## Hi, I’m amelia
 
 - 💬 I’m a front-end development
+- 📫 Keep Learning, contact with me anytime : sweety_juaner@163.com
 - 😄 I like the marvel movie
-- 📫 How to reach me: sweety_juaner@163.com
 - 🌱 Blog: https://amelia-coding.github.io
 
 <div>
@@ -11,5 +11,5 @@
 </div>
 
 
-Keep Learning, contact with me anytime ...
+
 
