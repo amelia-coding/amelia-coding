@@ -1,4 +1,4 @@
-## Hi, I’m amelia
+## Hi, I’m Amelia.D
 
 - 💬 I’m a front-end development
 - 😄 I like the marvel movie
