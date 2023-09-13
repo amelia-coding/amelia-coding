@@ -1,6 +1,6 @@
 ## Hi, I’m Amelia.D
 
-- 💬 I’m a front-end development
+- 💬 I’m a FE development
 - 😄 I like the marvel movie
 - 🌱 Blog: https://amelia-coding.github.io
 - 📫 contact with me anytime: 微信(bz123sn)
