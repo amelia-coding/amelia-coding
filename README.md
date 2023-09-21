@@ -2,7 +2,7 @@
 
 - 💬 I’m a FE development
 - 😄 语雀：https://www.yuque.com/ameliad/gngv44
-- 🌱 Blog: https://amelia-coding.github.io
+- 🌱 网站: https://amelia-coding.github.io
 - 📫 contact with me anytime: 微信(bz123sn)
 
 <div>
