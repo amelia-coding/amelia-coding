@@ -1,7 +1,7 @@
 ## Hi, I’m Amelia.D
 
 - 💬 I’m a FE development
-- 😄 I like the marvel movie
+- 😄 语雀：https://www.yuque.com/ameliad/gngv44
 - 🌱 Blog: https://amelia-coding.github.io
 - 📫 contact with me anytime: 微信(bz123sn)
 
