@@ -1,4 +1,4 @@
-## Hi, I’m Amelia.D
+## Hi, I’m Anna.Du
 
 - 💬 I’m a FE development
 - 😄 语雀：https://www.yuque.com/ameliad/gngv44
